@@ -10,5 +10,6 @@ describe('First TestSuite', () => {
      cy.title().should('include','nopCommerce')
  
      })
+     
 
   })
